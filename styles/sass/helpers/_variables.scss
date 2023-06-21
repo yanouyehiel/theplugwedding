@@ -1,0 +1,50 @@
+/*---------------------------
+	Fonts
+----------------------------*/
+
+@font-face {
+  font-family: 'monallesia';
+  src: url('../../../fonts/monallesiascript.woff2') format('woff2'),
+       url('../../../fonts/monallesiascript.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+@font-face {
+  font-family: 'monallesia';
+  src: url('../../../fonts/monallesiascript.woff2') format('woff2'),
+       url('../../../fonts/monallesiascript.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+// fonts
+$base-font-size: 15;
+$base-font: 'Jost', sans-serif;
+$heading-font: 'monallesia';
+
+
+
+// color
+$dark-gray: #323232;
+$body-color: #848892;
+$white: #fff;
+$light: #8188a9;
+$black: #000;
+$small-black: #333;
+$cyan: #848892;
+
+$theme-primary-color: #D4B0A5;
+$theme-primary-color-s2: #939580;
+$body-bg-color: #fff;
+$section-bg-color: #edf3f8;
+$section-bg-color-s2: #FDFDFD;
+$text-color: #525252;
+$text-light-color: #7b7b7b;
+$heading-color: $dark-gray;
+$border-color: #F3ECE9;
+$border-color-s2: #e4ebf2;
