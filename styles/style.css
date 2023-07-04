@@ -1,0 +1,97 @@
+.icon-color {
+    display: flex;
+}
+.icon, .link {
+    margin-right: 20px;
+    font-size: 30px;
+}
+
+.text-hero {
+    color: white !important;
+}
+.text-bold {
+    color: #B99226;
+}
+.text-link {
+    color: #7b7b7b;
+}
+.item-menu:hover {
+    color: #B99226 !important;
+}
+
+.bg-component {
+    background-color: #B99226 !important;
+    color: white !important;
+}
+.bg-component:hover {
+    background-color: #000000 !important;
+}
+
+.slide-btn button{
+    background-color: #B99226 !important;
+    border-color: #B99226 !important;
+}
+.slide-btn button:hover {
+    background-color: #000000 !important;
+}
+
+/* Styles Services component */
+.item-service {
+    margin-top: -60px;
+}
+.item-service .list-item {
+    margin-top: 20px;
+}
+.item-service .list-item .item {
+    font-size: 20px;
+}
+
+.flaticon-quotation {
+    color: #B99226 !important;
+}
+
+.div-map {
+    margin-bottom: -15px;
+}
+
+/*.mobileMenu {
+    position: relative;
+}*/
+.links {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+}
+.list-links {
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+}
+
+/* Media queries du Header */
+@media (max-width: 316px) {
+    .icon {
+        margin-right: 10px;
+        font-size: 20px;
+    }
+    .wpo-site-header .navbar-brand img {
+        margin-left: -15px;
+    }
+}
+@media only screen and (max-width: 900px) {
+    .icon {
+        margin-right: 10px;
+        font-size: 20px;
+    }
+    .wpo-site-header .navbar-brand img {
+        margin-left: -15px;
+    }
+}
+@media (min-width: 280px) and (max-width: 301px) {
+    .icons-media {
+        display: none;
+    }
+    .dl-block {
+        margin-left: 60px;
+    }
+}
