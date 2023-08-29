@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import SimpleReactValidator from 'simple-react-validator';
-import emailjs from '@emailjs/browser'
+//import emailjs from '@emailjs/browser'
 
 const ContactForm = () => {
     const [sendStatus, setSendStatus] = useState(0)
@@ -28,7 +28,7 @@ const ContactForm = () => {
         if (validator.allValid()) {
             validator.hideMessages();
             setSendStatus(1)
-            emailjs.send('service_76lbexa', 'template_bvxpoqo', forms, 'AC_DTNvzmjFi3HHjs')
+            /*emailjs.send('service_76lbexa', 'template_bvxpoqo', forms, 'AC_DTNvzmjFi3HHjs')
             .then((result) => {
                 console.log(result.text)
                 setForms({
@@ -41,7 +41,7 @@ const ContactForm = () => {
                 setSendStatus(2)
             }, (error) => {
                 console.log(error.text)
-            })
+            })*/
         } else {
             validator.showMessages();
         }
