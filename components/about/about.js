@@ -171,7 +171,7 @@ const About = (props) => {
                         </div>
                         <div className="col-lg-6 col-md-12 col-12">
                             <div className="wpo-about-text">
-                                <h2 style={{color:'#b99256'}} >About Us</h2>
+                                <h2 style={{color:'#b99226'}} >About Us</h2>
                                 
                                 <p style={{fontSize:'25px', fontFamily:'Montserrat'}}>Hey liebes Brautpaar😊,<br />
 Ich bin Fotograf-Videograf-Drohne Pilot- leidenschaftlicher "Story Teller" mit mehr als 10 Jahren Erfahrung in Hochzeitsfoto- und Videografie in Deutschland und im Ausland. Ich habe Mediengestaltung mit Schwerpunkt Foto-und Videoproduktion studiert und möchte euch dabei helfen, die bildliche Geschichte des schönsten Tages eures Lebens zu schreiben. 
@@ -183,7 +183,7 @@ Liebe Grüße
 Eur Stephane Kamwa (THEPLUG)
 
                                 </p>
-                                <Link style={{backgroundColor:'#b99256'}} onClick={ClickHandler} href="/contact" className="theme-btn">APPOINMENT</Link>
+                                <Link style={{backgroundColor:'#b99226'}} onClick={ClickHandler} href="/contact" className="theme-btn">APPOINMENT</Link>
                             </div>
                         </div>
                     </div>
@@ -192,11 +192,11 @@ Eur Stephane Kamwa (THEPLUG)
                     <div className="row">
                         <div className="col-lg-6 col-md-12 col-12 order-lg-1 order-2">
                             <div className="wpo-about-text">
-                                <h2 style={{color:'#b99256'}} >Our Story</h2>
+                                <h2 style={{color:'#b99226'}} >Our Story</h2>
                                 {/* <h4 style={{fontFamily:'Montserrat'}}>Our Company Has a Great Mission & Policy</h4> */}
                                 <p className='ff' style={{fontSize:'25px'}} >Nach vielen Jahren, in denen ich mich in der Hochzeitsbranche bewegt habe, wollte ich einen Schritt weitergehen. Grund genug für mich, die besten Hochzeitsdienstleister auf dieser Plattform zu sammeln.
                                 </p>
-                                <Link style={{backgroundColor:'#b99256'}} onClick={ClickHandler} href="/contact" className="theme-btn">CONTACT US</Link>
+                                <Link style={{backgroundColor:'#b99226'}} onClick={ClickHandler} href="/contact" className="theme-btn">CONTACT US</Link>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 col-12 order-lg-2 order-1">
@@ -233,12 +233,12 @@ Eur Stephane Kamwa (THEPLUG)
                         </div>
                         <div className="col-lg-6 col-md-12 col-12">
                             <div className="wpo-about-text">
-                                <h2 style={{color:'#b99256'}}>Making off</h2>
+                                <h2 style={{color:'#b99226'}}>Making off</h2>
                                 {/* <h4 style={{fontFamily:'Montserrat'}}>We Are The Best Wedding Planner & Decor.</h4> */}
                                 <p style={{fontSize:'25px',textAlign:'justify', fontFamily:'Montserrat'}}>
                                 Wie man auf den Bildern sehen kann, ist ein Tag mit mir ein Kinderspiel. Ich bin ein Mensch mit einer enormen Lebensfreude, der das Leben immer von der positiven Seite nimmt. Diese Lebensfreude kämpfe ich, um sie an alle meine Klienten weiterzugeben. Die Atmosphäre während der Fotoshootings ist sehr cool, wir lachen viel.
                                 </p>
-                                <Link style={{backgroundColor:'#b99256'}} onClick={ClickHandler} href="/contact" className="theme-btn">APPOINMENT</Link>
+                                <Link style={{backgroundColor:'#b99226'}} onClick={ClickHandler} href="/contact" className="theme-btn">APPOINMENT</Link>
                             </div>
                         </div>
                     </div>
