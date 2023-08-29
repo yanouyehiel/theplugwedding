@@ -39,7 +39,7 @@ const VideoSection = (props) => {
                                 ))}
                             </div>
                             
-                            <Link style={{backgroundColor:'#b99256'}} onClick={ClickHandler} href="/videos" className="theme-btn">See more videos...</Link>
+                            <Link style={{backgroundColor:'#b99226'}} onClick={ClickHandler} href="/videos" className="theme-btn">See more videos...</Link>
                         </div>
                     </div>
                 </div>
