@@ -102,7 +102,7 @@ const Testimonial = () => {
                                     }
 
                                 </Slider>
-                                <Link style={{backgroundColor:'#b99256'}} onClick={ClickHandler} href="https://www.google.com/search?q=stephane+kamwa+hochzeitsfotograf+%26+-videograf+(theplug-wedding-events-portrait))&oq=st&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYOzIGCAMQRRg5MgYIBBBFGDsyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQgxNzg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x47bd7af23aaaa0a1:0xabb4dd37dbbf728b,1" target='_blank' className="theme-btn">SEE MORE FEEDBACK</Link>
+                                <Link style={{backgroundColor:'#b99226'}} onClick={ClickHandler} href="https://www.google.com/search?q=stephane+kamwa+hochzeitsfotograf+%26+-videograf+(theplug-wedding-events-portrait))&oq=st&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYOzIGCAMQRRg5MgYIBBBFGDsyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQgxNzg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x47bd7af23aaaa0a1:0xabb4dd37dbbf728b,1" target='_blank' className="theme-btn">SEE MORE FEEDBACK</Link>
                             </div>
                         </div>
                     </div>
