@@ -32,11 +32,11 @@ import Slider from "react-slick";
 var settings = {
     dots: false,
     arrows: true,
-    speed: 1000,
+    speed: 1500,
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 1500,
+    autoplaySpeed: 2000,
     centerMode: true,
     centerPadding:'0',
     responsive: [
